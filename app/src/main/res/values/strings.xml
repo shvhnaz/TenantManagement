@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tenant App</string>
+    <string name="tenant_details">Tenant Details</string>
+    <string name="tenant_name">Tenant Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="monthly_rent">Monthly Rent</string>
+    <string name="save_tenant">SAVE TENANT</string>
+</resources>
