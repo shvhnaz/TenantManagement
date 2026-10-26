@@ -1,6 +1,8 @@
 plugins {
     alias(libs.plugins.android.application)
+    alias(libs.plugins.androidx.navigation.safeargs)
 }
+
 
 android {
     namespace = "com.example.tenantmanagement"

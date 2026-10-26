@@ -1,8 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Tenant App</string>
-    <string name="tenant_details">Tenant Details</string>
-    <string name="tenant_name">Tenant Name</string>
-    <string name="phone_number">Phone Number</string>
-    <string name="monthly_rent">Monthly Rent</string>
-    <string name="save_tenant">SAVE TENANT</string>
+    <string name="app_name">Tenant Management</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
 </resources>
